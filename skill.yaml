@@ -1,0 +1,5 @@
+name: "avatar-prompt-polish"
+title: "Avatar Prompt Polish"
+description: "Rewrite a raw avatar request into a concrete, policy-safe brief with a defined body shape and named clothes, so avatar generation passes instead of getting refused."
+category: "Work and knowledge"
+include_in_prompt: true
