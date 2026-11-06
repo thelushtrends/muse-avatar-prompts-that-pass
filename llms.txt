@@ -1,0 +1,11 @@
+# muse-avatar-prompts-that-pass
+
+> Muse avatar prompts that pass — concrete, policy-safe briefs that stop refusals.
+
+Avatar Prompt Polish rewrites a raw Muse avatar request into a concrete, policy-safe brief — a specific character, outfit and setting in plain language, with no weapon, no real person and no trademarked character — so Muse's avatar service accepts it instead of refusing it.
+
+- [Home](https://thelushtrends.github.io/muse-avatar-prompts-that-pass/)
+- [Repo](https://github.com/thelushtrends/muse-avatar-prompts-that-pass)
+- [Why avatars get refused](https://github.com/thelushtrends/muse-avatar-prompts-that-pass/blob/main/docs/why-avatars-get-refused.md)
+- [The prompt formula](https://github.com/thelushtrends/muse-avatar-prompts-that-pass/blob/main/docs/prompt-formula.md)
+- [The full skill](https://github.com/thelushtrends/muse-avatar-prompts-that-pass/blob/main/SKILL.md)
